@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ... } from 'lucide-react';
+import { ChevronUp, Plus, Trash2, AlertCircle, TrendingDown } from 'lucide-react';
 
 const WORKOUT_TEMPLATE = {
   "Monday - Push": [
